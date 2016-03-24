@@ -17,5 +17,11 @@
                 <span class="success">${messages.success}</span>
             </p>
         </form>
+        <form action="HelloServlet2" method="post">
+            <p>
+                <input type="submit">
+                <span class="success">${messages.success}</span>
+            </p>
+        </form>
     </body>
 </html>
